@@ -2,4 +2,7 @@ Hello there
 bye
 Hello again
 bye bye
+<<<<<<< HEAD
 bye bye final
+=======
+>>>>>>> 5aae161b1f561e53c16285938e1618f4f28413b3
